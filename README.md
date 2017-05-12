@@ -1,4 +1,4 @@
 # gitskills
 Creating a new branch is quick and simple.
-Git new merge
+Git is a new merge
 
